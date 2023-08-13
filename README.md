@@ -1,3 +1,9 @@
+
+# About the App
+ 
+This is the app made on react that runs locally where we can get the news from all over the world and we can categorize it into various genre like science and technology business Bollywood etc
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -59,11 +65,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 ### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration) 
 
 ### `npm run build` fails to minify
 
